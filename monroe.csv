@@ -1,0 +1,183 @@
+"County Name","District Name","School Name","BEDS CODE",Enrollment,"School Type","Homicide with weapon(s)","Homicide Without Weapon(s)","Focible Sex Offense With Weapon(s)","Forcible Sex Offenses Without Weapon(s)","Other Sex offenses With Weapon(s)","Other Sex offenses Without Weapon(s)","Robbery With Weapon(s)","Robbery Without Weapon(s)","Assault With Serious Physical Injury With Weapon(s)","Assault With Serious Physical Injury Without Weapon(s)","Arson With Weapon(s)","Kidnapping With Weapon(s)","Kidnapping Without Weapon(s)","Assault with Physical Injury With Weapon(s)","Assault with Physical Injury Without Weapon(s)","Reckless Endangerment With Weapon(s)","Reckless Endangerment Without Weapon(s)","Minor Altercations With Weapon(s)","Minor Altercations Without Weapon(s)","Intimidation, Harassment, Menacing, or Bullying With Weapon(s)","Intimidation, Harassment, Menacing, or Bullying Without Weapon(s)","Burglary With Weapon(s)","Burglary Without Weapon(s)","Criminal Mischief With Weapon(s)","Criminal Mischief Without Weapon(s)","Larceny, or Other Theft With Weapon(s)","Larceny, or Other Theft Without Weapon(s)","Bomb Threat","False Alarm","Riot With Weapon(s)","Riot Without Weapon(s)","Weapon Possession Through Screening","Weapon Possession Under Other Circumstances","Use Possession or Sale of Drugs","Use Possession or Sale of Alcohol","Other Disruptive Incidents"
+MONROE,"Brighton Central School District","Brighton High School",260101060004,1257,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,0,0,1,1,2,0,0,0,0,4,8,4
+MONROE,"Brighton Central School District","Council Rock Primary School",260101060001,656,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Brighton Central School District","French Road Elementary School",260101060010,759,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Brighton Central School District","Twelve Corners Middle School",260101060008,866,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,10
+MONROE,"Brockport Central School District","A D Oliver Middle School",261801060005,1033,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0,37,0,21,0,0,0,0,0,0,1,0,0,0,0,2,1,1,6
+MONROE,"Brockport Central School District","Barclay Elementary School",261801060004,540,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Brockport Central School District","Brockport High School",261801060003,1519,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,38,0,16,0,0,0,3,0,7,4,0,0,0,0,4,7,5,49
+MONROE,"Brockport Central School District","Fred W Hill School",261801060006,595,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+MONROE,"Brockport Central School District","Ginther Elementary School",261801060002,552,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Churchville-Chili Central School District","Chestnut Ridge Elementary School",261501060002,618,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4
+MONROE,"Churchville-Chili Central School District","Churchville Elementary School",261501060003,393,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+MONROE,"Churchville-Chili Central School District","Churchville-Chili Junior High School",261501060008,794,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,11,0,0,0,1,0,2,0,0,0,0,0,1,5,0,49
+MONROE,"Churchville-Chili Central School District","Churchville-Chili Middle School",261501060007,627,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+MONROE,"Churchville-Chili Central School District","Churchville-Chili Senior High School",261501060004,1536,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,17,0,0,0,4,0,1,1,0,0,0,0,3,9,4,147
+MONROE,"Churchville-Chili Central School District","Fairbanks Road Elementary School",261501060006,469,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+MONROE,"East Irondequoit Central School District","Durand-Eastman Intermediate School",260801060009,381,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,5
+MONROE,"East Irondequoit Central School District","East Irondequoit Middle School",260801060012,857,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,34,0,0,0,0,0,1,1,0,0,0,0,5,0,0,104
+MONROE,"East Irondequoit Central School District","Eastridge Senior High School",260801060006,1171,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,49,0,32,0,0,0,1,0,7,0,0,0,0,0,3,9,5,73
+MONROE,"East Irondequoit Central School District","Helendale Road Primary School",260801060011,347,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"East Irondequoit Central School District","Ivan L Green Primary School",260801060005,351,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+MONROE,"East Irondequoit Central School District","Laurelton-Pardee Intermediate School",260801060003,344,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"East Rochester Union Free School District","East Rochester Elementary School",261313030001,682,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+MONROE,"East Rochester Union Free School District","East Rochester Junior-Senior High School",261313030002,562,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,3,0,43,0,17,0,0,0,0,0,2,3,0,0,0,0,0,0,0,29
+MONROE,"Fairport Central School District","Brooks Hill School",261301060001,783,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Fairport Central School District","Dudley School",261301060010,680,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Fairport Central School District","Fairport Senior High School",261301060009,1777,Public,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,1,5,0,0
+MONROE,"Fairport Central School District","Jefferson Avenue School",261301060006,776,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MONROE,"Fairport Central School District","Johanna Perrin Middle School",261301060002,792,Public,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,1,0,16,0,15,0,0,0,1,0,4,1,0,0,0,0,1,0,0,14
+MONROE,"Fairport Central School District","Martha Brown Middle School",261301060004,882,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+MONROE,"Fairport Central School District","Minerva Deland School",261301060007,590,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,3,0,0,0,0,0,1,0,0,0,0,0,0,2,0,2
+MONROE,"Fairport Central School District","Northside School",261301060008,777,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Gates-Chili Central School District","Florence Brasser School",260401060002,261,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Gates-Chili Central School District","Gates-Chili High School",260401060001,1751,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,58,1,18,0,0,0,0,0,1,0,0,0,0,0,5,7,2,87
+MONROE,"Gates-Chili Central School District","Gates-Chili Middle School",260401060004,1262,Public,0,0,0,0,0,4,0,0,1,0,0,0,0,0,7,0,1,0,56,0,36,0,0,0,3,0,2,0,0,0,0,0,4,2,0,102
+MONROE,"Gates-Chili Central School District","Neil Armstrong School",260401060009,510,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+MONROE,"Gates-Chili Central School District","Paul Road School",260401060007,404,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Gates-Chili Central School District","Walt Disney School",260401060008,528,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+MONROE,"Gates-Chili Central School District","Washington Irving School",260401060005,303,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+MONROE,"Greece Central School District","Apollo Middle School",260501060022,915,Public,0,0,0,0,0,1,0,0,0,1,0,0,0,0,11,0,1,0,96,1,21,0,0,1,2,0,4,0,2,0,0,0,6,2,0,22
+MONROE,"Greece Central School District","Arcadia High School",260501060010,1358,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,23,0,21,0,0,0,2,0,7,1,0,0,0,0,2,6,6,4
+MONROE,"Greece Central School District","Arcadia Middle School",260501060023,850,Public,0,0,0,0,0,1,0,0,0,1,0,0,0,0,8,0,2,0,80,1,33,0,0,0,3,0,2,0,1,0,0,0,0,0,0,3
+MONROE,"Greece Central School District","Athena High School",260501060019,1381,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,21,0,23,0,0,0,2,0,0,0,0,0,0,0,2,6,2,17
+MONROE,"Greece Central School District","Athena Middle School",260501060020,950,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,8,0,1,0,47,0,23,0,1,1,3,0,7,0,0,0,0,0,2,0,1,4
+MONROE,"Greece Central School District","Autumn Lane Elementary School",260501060001,476,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Greece Central School District","Brookside Elementary School Campus",260501060004,299,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+MONROE,"Greece Central School District","Buckman Heights Elementary School",260501060012,312,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Greece Central School District","Craig Hill Elementary School",260501060015,413,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+MONROE,"Greece Central School District","English Village Elementary School",260501060006,484,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Greece Central School District","Holmes Road Elementary School",260501060016,422,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+MONROE,"Greece Central School District","Kirk Road Elementary School",260501060018,336,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1
+MONROE,"Greece Central School District","Lakeshore Elementary School",260501060011,376,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,13,1,2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2
+MONROE,"Greece Central School District","Longridge School",260501060002,847,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,23,2,7,0,0,0,0,0,0,0,0,0,0,0,4,0,0,7
+MONROE,"Greece Central School District","Odyssey Academy",260501060013,797,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,27,0,10,0,0,0,0,0,5,0,0,0,0,0,3,0,0,5
+MONROE,"Greece Central School District","Olympia High School",260501060008,1432,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,56,0,81,0,0,1,8,0,7,0,1,0,0,0,5,7,1,11
+MONROE,"Greece Central School District","Paddy Hill Elementary School",260501060009,366,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Greece Central School District","Parkland Elementary School Campus",260501060014,325,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,18,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+MONROE,"Greece Central School District","Pine Brook Elementary School",260501060024,592,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,2
+MONROE,"Greece Central School District","West Ridge Ementary School",260501060007,416,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Hilton Central School District","Hilton High School",261101060004,1514,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,6,0,0,0,1,0,2,2,0,0,0,0,1,2,0,15
+MONROE,"Hilton Central School District","Merton Williams Middle School",261101060005,704,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,12,0,0,0,0,0,6,0,0,0,0,0,0,1,0,10
+MONROE,"Hilton Central School District","Northwood Elementary School",261101060006,852,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+MONROE,"Hilton Central School District","Quest Elementary School",261101060002,407,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Hilton Central School District","Village Elementary School",261101060001,974,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Honeoye Falls-Lima Central School District","Honeoye Falls-Lima Middle School",260901060005,663,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,2,0,3,0,0,0,0,0,1,3,1,3
+MONROE,"Honeoye Falls-Lima Central School District","Honeoye Falls-Lima Senior High School",260901060004,887,Public,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,8,0,5,0,0,0,1,0,0,1,0,0,0,0,2,3,3,8
+MONROE,"Honeoye Falls-Lima Central School District","Lima Elementary School",260901060001,346,Public,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Honeoye Falls-Lima Central School District","Manor Intermediate School",260901060002,746,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,N/A,"Eugenio Maria De Hostos Charter School",261600860811,290,Charter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111
+MONROE,N/A,"Genesee Community Charter School At The Rochester Museum",261600860826,212,Charter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,N/A,"True North Rochester Preparatory Charter School (The)",261600860906,81,Charter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0
+MONROE,N/A,"Urban Choice Charter School",261600860877,264,Charter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44
+MONROE,"Penfield Central School District","Bay Trail Middle School",261201060008,1165,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+MONROE,"Penfield Central School District","Cobbles Elementary School",261201060003,498,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+MONROE,"Penfield Central School District","Harris Hill Elementary School",261201060009,514,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+MONROE,"Penfield Central School District","Indian Landing Elementary School",261201060004,454,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Penfield Central School District","Penfield Senior High School",261201060006,1632,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,1,1,1,27,0,6,0,0,0,2,0,8,17,0,0,0,0,6,10,4,64
+MONROE,"Penfield Central School District","Scribner Road Elementary School",261201060005,515,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+MONROE,"Pittsford Central School District","Allen Creek School",261401060001,360,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+MONROE,"Pittsford Central School District","Barker Road Middle School",261401060008,733,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,0,0,0,0,4,0,0,0,0,0,0,0,0,8
+MONROE,"Pittsford Central School District","Calkins Road Middle School",261401060011,726,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,3,0,1,0,0,0,0,0,0,0,0,12
+MONROE,"Pittsford Central School District","Jefferson Road School",261401060002,444,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+MONROE,"Pittsford Central School District","Mendon Center Elementary School",261401060005,778,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Pittsford Central School District","Park Road School",261401060004,479,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+MONROE,"Pittsford Central School District","Pittsford Sutherland High School",261401060006,963,Public,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,5,0,3,0,0,0,4,0,2,1,0,0,0,0,0,3,19,11
+MONROE,"Pittsford Central School District","Pittsford-Mendon High School",261401060010,986,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,1,0,1,0,0,0,0,0,4,0,0,0,0,0,1,1,3,10
+MONROE,"Pittsford Central School District","Thornell Road School",261401060009,520,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+MONROE,"Rochester City School District","Benjamin Franklin Montessori School",261600010053,156,Public,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+MONROE,"Rochester City School District","Bioscience & Health Career Hs At Franklin",261600010076,588,Public,0,0,0,0,0,2,0,0,0,2,0,0,0,0,8,0,1,0,91,0,120,0,0,0,4,0,4,0,3,0,1,7,1,6,0,188
+MONROE,"Rochester City School District","Charlotte High School",261600010060,1030,Public,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,76,0,23,0,0,0,0,0,2,0,1,0,0,6,2,0,0,134
+MONROE,"Rochester City School District","Dr Freddie Thomas High School",261600010085,903,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,37,0,0,0,0,0,2,0,0,0,0,4,0,0,0,171
+MONROE,"Rochester City School District","East High School",261600010061,1901,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,1,13,0,7,0,69,0,13,0,0,0,6,0,4,0,2,0,0,3,15,12,2,1335
+MONROE,"Rochester City School District","Frederick Douglass Preparatory School",261600010072,965,Public,0,0,0,0,0,3,0,0,0,0,0,0,0,0,14,0,18,0,56,0,50,0,0,0,0,0,6,0,0,0,0,3,2,4,1,316
+MONROE,"Rochester City School District","Global Media Arts Hs At Franklin",261600010084,547,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,0,2,1,15,0,4,0,0,0,0,0,3,0,0,0,0,7,0,3,0,334
+MONROE,"Rochester City School District","International Finance & Economic Development Hs At Franklin",261600010086,536,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,21,0,7,0,0,0,1,0,1,0,0,0,0,2,3,5,3,345
+MONROE,"Rochester City School District","James Monroe High School",261600010066,1292,Public,0,0,0,0,0,1,0,3,0,3,1,0,0,0,16,0,2,0,126,0,35,0,0,0,1,0,0,0,0,0,1,2,4,3,1,186
+MONROE,"Rochester City School District","John Marshall High School",261600010065,1124,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,83
+MONROE,"Rochester City School District","Joseph C Wilson Magnet High School",261600010067,1881,Public,0,0,0,0,0,3,0,0,0,1,2,0,0,0,13,1,3,1,143,0,152,0,0,0,2,0,3,0,0,0,0,6,8,8,0,634
+MONROE,"Rochester City School District","Northeast College Preparatory High School",261600010073,156,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0,5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,48
+MONROE,"Rochester City School District","Northwest College Preparatory High School",261600010089,145,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+MONROE,"Rochester City School District","School 12-James P B Duffy",261600010012,711,Public,0,0,0,0,0,2,0,0,0,0,0,0,0,0,5,0,4,0,17,0,14,0,0,0,1,0,0,0,0,0,0,0,3,0,0,24
+MONROE,"Rochester City School District","School 14-Chester Dewey",261600010014,371,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+MONROE,"Rochester City School District","School 15-Children'S School Of Rochester (The)",261600010015,300,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+MONROE,"Rochester City School District","School 16-John Walton Spencer",261600010016,489,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,11,0,29,0,9,0,0,0,0,0,0,1,0,0,0,0,4,0,0,38
+MONROE,"Rochester City School District","School 17-Enrico Fermi",261600010017,493,Public,0,0,0,0,0,2,0,0,0,0,0,0,0,0,7,0,4,0,45,0,4,0,0,0,0,0,0,0,0,0,0,3,1,1,0,90
+MONROE,"Rochester City School District","School 19-Dr Charles T Lunsford",261600010019,336,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,20,0,3,0,0,0,3,0,0,0,0,0,0,0,1,0,0,48
+MONROE,"Rochester City School District","School 1-Martin B Anderson",261600010001,347,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,8
+MONROE,"Rochester City School District","School 20-Henry Lomb School",261600010020,323,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+MONROE,"Rochester City School District","School 22-Lincoln School",261600010022,495,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,66
+MONROE,"Rochester City School District","School 23-Francis Parker",261600010023,341,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11
+MONROE,"Rochester City School District","School 25-Nathaniel Hawthorne",261600010025,344,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Rochester City School District","School 28-Henry Hudson",261600010028,639,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,39,0,0,0,0,0,0,0,3,0,0,0,2,0,1,0,0,73
+MONROE,"Rochester City School District","School 29-Adlai E Stevenson",261600010029,438,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+MONROE,"Rochester City School District","School 2-Clara Barton",261600010002,332,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+MONROE,"Rochester City School District","School 30-General Elwell S Otis",261600010030,434,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,14
+MONROE,"Rochester City School District","School 33-Audubon",261600010033,1126,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,1,0,8,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,175
+MONROE,"Rochester City School District","School 34-Dr Louis A Cerulli",261600010034,449,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+MONROE,"Rochester City School District","School 35-Pinnacle",261600010035,451,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0,9,0,20,0,2,0,0,0,0,1,1,0,0,0,0,0,2,0,0,6
+MONROE,"Rochester City School District","School 36-Henry W Longfellow",261600010036,387,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,0,3,1,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+MONROE,"Rochester City School District","School 39-Andrew J Townson",261600010039,615,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,19,0,5,0,0,0,0,0,0,0,0,0,0,1,2,0,0,83
+MONROE,"Rochester City School District","School 3-Nathaniel Rochester",261600010003,686,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,1,0,71,0,17,0,0,0,0,0,0,0,0,0,0,0,3,4,0,169
+MONROE,"Rochester City School District","School 41-Kodak Park",261600010041,553,Public,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,42,1,7,0,0,0,2,0,0,0,1,0,0,1,0,0,0,28
+MONROE,"Rochester City School District","School 42-Abelard Reynolds",261600010042,487,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46
+MONROE,"Rochester City School District","School 43-Theodore Roosevelt",261600010043,585,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,1,12,0,8,2,23,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+MONROE,"Rochester City School District","School 44-Lincoln Park",261600010044,304,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
+MONROE,"Rochester City School District","School 45-Mary Mcleod Bethune",261600010045,692,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+MONROE,"Rochester City School District","School 46-Charles Carroll",261600010046,351,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,17,0,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,30
+MONROE,"Rochester City School District","School 4-George Mather Forbes",261600010004,399,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,11,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,12
+MONROE,"Rochester City School District","School 50-Helen Barrett Montgomery",261600010050,556,Public,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,4,1,32,0,7,0,0,0,1,0,0,0,0,0,0,0,1,0,0,25
+MONROE,"Rochester City School District","School 52-Frank Fowler Dow",261600010052,351,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4
+MONROE,"Rochester City School District","School 54-Flower City Community School",261600010054,232,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+MONROE,"Rochester City School District","School 57-Early Childhood School",261600010057,201,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9
+MONROE,"Rochester City School District","School 58-World Of Inquiry School",261600010058,299,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+MONROE,"Rochester City School District","School 5-John Williams",261600010005,543,Public,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,1,0,22,0,6,0,0,0,3,0,0,0,1,0,0,0,1,0,0,32
+MONROE,"Rochester City School District","School 6-Dag Hammarskjold",261600010006,328,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,18,0,0,0,0,0,1,0,0,0,0,1,1,0,0,17
+MONROE,"Rochester City School District","School 7-Virgil Grissom",261600010007,601,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,26,1,27,0,0,0,0,0,0,0,1,0,0,0,3,0,0,24
+MONROE,"Rochester City School District","School 8-Roberto Clemente",261600010008,571,Public,0,0,0,0,0,4,0,0,0,0,0,0,0,0,9,0,33,0,95,0,73,0,1,0,0,0,5,1,0,0,0,1,3,0,0,55
+MONROE,"Rochester City School District","School 9-Dr Martin Luther King Jr",261600010009,677,Public,0,0,0,0,0,2,0,0,0,1,0,0,0,0,6,0,1,0,29,0,6,0,0,0,1,0,0,0,1,0,0,2,5,0,0,57
+MONROE,"Rochester City School District","School For Business, Finance And Entrepreneurship At Edison",261600010081,398,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,5,2,0,193
+MONROE,"Rochester City School District","School Of Engineering And Manufacturing At Edison",261600010082,393,Public,0,0,0,0,0,0,0,1,0,0,0,0,0,0,9,0,4,0,15,0,23,0,0,0,1,0,11,0,0,0,0,1,1,2,0,406
+MONROE,"Rochester City School District","School Of Imaging And Information Technology At Edison",261600010094,459,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,3,0,1,0,0,0,0,0,0,0,0,0,1,1,4,0,0,273
+MONROE,"Rochester City School District","School Of The Arts",261600010074,1152,Public,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,5,0,13,0,3,0,0,1,2,0,0,0,0,0,1,0,3,5,0,158
+MONROE,"Rochester City School District","School Without Walls",261600010069,375,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,52
+MONROE,"Rochester City School District","Skilled Trades At Edison",261600010083,354,Public,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,9,0,15,0,1,1,10,0,1,0,0,0,0,1,3,2,1,258
+MONROE,"Rochester City School District","Thomas Jefferson High School",261600010063,1145,Public,0,0,0,0,0,2,0,0,0,0,0,0,0,0,8,0,1,0,39,1,18,0,1,0,0,0,2,0,0,0,0,1,3,2,0,205
+MONROE,"Rush-Henrietta Central School District","Charles H Roth Middle School",261701060014,847,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,26,0,19,0,0,0,0,0,0,2,0,0,0,0,0,1,1,2
+MONROE,"Rush-Henrietta Central School District","David B Crane Elementary School",261701060005,455,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+MONROE,"Rush-Henrietta Central School District","Emma E Sherman Elementary School",261701060012,490,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+MONROE,"Rush-Henrietta Central School District","Ethel K Fyle Elementary School",261701060002,438,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,4,0,2,0,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+MONROE,"Rush-Henrietta Central School District","Floyd S Winslow Elementary School",261701060006,472,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+MONROE,"Rush-Henrietta Central School District","Henry V Burger Middle School",261701060015,533,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,35,0,21,0,0,0,3,0,6,3,0,0,0,0,0,1,1,9
+MONROE,"Rush-Henrietta Central School District","Monica B Leary Elementary School",261701060004,495,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+MONROE,"Rush-Henrietta Central School District","Ninth Grade Academy",261701060009,500,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,0,13,0,9,0,0,0,0,0,14,0,0,0,0,0,0,5,0,2
+MONROE,"Rush-Henrietta Central School District","Rush-Henrietta Senior High School",261701060013,1505,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,10,0,4,0,36,0,34,0,0,0,6,0,6,2,0,0,0,0,1,17,6,29
+MONROE,"Spencerport Central School District","A M Cosgrove Middle School",261001060005,1000,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,8,0,16,0,0,1,0,0,2,0,0,0,0,0,2,1,0,29
+MONROE,"Spencerport Central School District","Canal View Elementary School",261001060007,429,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Spencerport Central School District","Leo Bernabi School",261001060003,400,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+MONROE,"Spencerport Central School District","Spencerport High School",261001060001,1516,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,23,0,10,0,0,0,4,0,0,0,0,0,0,0,1,0,2,4
+MONROE,"Spencerport Central School District","Terry Taylor Elementary School",261001060006,509,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+MONROE,"Spencerport Central School District","William C Munn School",261001060002,391,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+MONROE,"Webster Central School District","Dewitt Road Elementary School",261901060002,500,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Webster Central School District","Klem Road North Elementary School",261901060003,561,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Webster Central School District","Klem Road South Elementary School",261901060013,535,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Webster Central School District","Plank Road North Elementary School",261901060004,516,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1
+MONROE,"Webster Central School District","Plank Road South Elementary School",261901060011,493,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Webster Central School District","Schlegel Road Elementary School",261901060014,534,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+MONROE,"Webster Central School District","Spry Middle School",261901060007,1045,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,25,0,10,0,0,0,0,0,2,2,0,0,0,0,1,0,0,1
+MONROE,"Webster Central School District","State Road Elementary School",261901060006,569,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+MONROE,"Webster Central School District","Thomas High School",261901060015,1465,Public,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,16,0,4,0,0,0,1,0,6,0,0,0,0,0,1,3,4,25
+MONROE,"Webster Central School District","Webster-Schroeder High School",261901060009,1573,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,58,0,11,0,0,0,0,0,2,0,0,0,0,0,1,2,3,19
+MONROE,"Webster Central School District","Willink Middle School",261901060010,1050,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,10,0,0,0,0,0,0,0,0,0,0,0,2,0,0,9
+MONROE,"West Irondequoit Central School District","Briarwood School",260803060001,125,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+MONROE,"West Irondequoit Central School District","Brookview School",260803060012,152,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2,0,1,0,2,0,0,0,0,0,0,0,0,0,0,6
+MONROE,"West Irondequoit Central School District","Colebrook School",260803060009,158,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"West Irondequoit Central School District","Dake Junior High School",260803060002,656,Public,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,15,0,15,0,0,0,0,0,2,0,0,0,0,0,0,1,1,12
+MONROE,"West Irondequoit Central School District","Irondequoit High School",260803060005,1410,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,14,0,5,0,0,0,0,0,23,0,0,0,0,0,1,3,9,0
+MONROE,"West Irondequoit Central School District","Iroquois Middle School",260803060003,380,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,7,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1
+MONROE,"West Irondequoit Central School District","Listwood School",260803060014,154,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+MONROE,"West Irondequoit Central School District","Rogers Middle School",260803060004,476,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,7,0,3,0,0,0,2,0,0,0,0,0,0,0,2,0,0,3
+MONROE,"West Irondequoit Central School District","Seneca School",260803060007,182,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"West Irondequoit Central School District","Southlawn School",260803060011,256,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1
+MONROE,"Wheatland-Chili Central School District","T J Connor Elementary School",262001040004,329,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MONROE,"Wheatland-Chili Central School District","Wheatland Chili High School",262001040003,473,Public,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,20,0,14,0,0,0,1,0,0,0,0,0,0,0,3,2,1,136
